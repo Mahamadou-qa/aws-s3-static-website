@@ -29,7 +29,7 @@ Mise en place d’une Bucket Policy
 
 
 
-🔧 Étapes de réalisation
+
 1️⃣ Création du bucket S3
 
 Création d’un bucket unique
